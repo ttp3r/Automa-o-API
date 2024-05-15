@@ -44,14 +44,3 @@ Após abrir o dashboard, prossiga com os passos sugerido pelo Cypress.
 
 ### Bibliotecas de apoio:
 -Cypress: Framework de automação: https://cypress.io/
-
-
-### Bom exercício ;) 
-Fábio & José Ernesto
-Qualidade de software
-
-
-
-
-
-Repositório clonado
